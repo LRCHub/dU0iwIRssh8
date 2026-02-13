@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "GREATEST",
+  "base_artist": "音乃瀬奏",
+  "createdAt": "2026-02-13T14:03:40.851959Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "19 Somethin' - Greatest Hits Version",
+      "artist": "Mark Wills",
+      "has_synced": true,
+      "path": "select/01_19_Somethin'_-_Greatest_Hits_Version_Mark_Wills.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "19 Somethin' (Greatest Hits Version)",
+      "artist": "Mark Wills",
+      "has_synced": true,
+      "path": "select/02_19_Somethin'_(Greatest_Hits_Version)_Mark_Wills.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "19 Somethin' (Greatest Hits Version)",
+      "artist": "Mark Wills",
+      "has_synced": true,
+      "path": "select/03_19_Somethin'_(Greatest_Hits_Version)_Mark_Wills.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Girls Lie Too - Greatest Hits Version",
+      "artist": "Terri Clark",
+      "has_synced": true,
+      "path": "select/04_Girls_Lie_Too_-_Greatest_Hits_Version_Terri_Clark.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Greatest Love Story",
+      "artist": "LANCO",
+      "has_synced": true,
+      "path": "select/05_Greatest_Love_Story_LANCO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It's A Little Too Late - 1996 Greatest Hits Version",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/06_It's_A_Little_Too_Late_-_1996_Greatest_Hits_Version_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's A Little Too Late (1996 Greatest Hits Version)",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/07_It's_A_Little_Too_Late_(1996_Greatest_Hits_Version)_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Knee Deep (feat. Jimmy Buffett) (Greatest Hits Version)",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/08_Knee_Deep_(feat._Jimmy_Buffett)_(Greatest_Hits_Version)_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Leaving, On a Jet Plane (\"Greatest Hits\" Version)",
+      "artist": "John Denver",
+      "has_synced": true,
+      "path": "select/09_Leaving,_On_a_Jet_Plane_(_Greatest_Hits__Version)_John_Denver.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let It Rain - 1996 Greatest Hits Version",
+      "artist": "Mark Chesnutt",
+      "has_synced": true,
+      "path": "select/10_Let_It_Rain_-_1996_Greatest_Hits_Version_Mark_Chesnutt.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stays In Mexico - Greatest Hits 2 Version",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/11_Stays_In_Mexico_-_Greatest_Hits_2_Version_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stays In Mexico (Greatest Hits 2 Version)",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/12_Stays_In_Mexico_(Greatest_Hits_2_Version)_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Greatest Man I Never Knew",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/13_The_Greatest_Man_I_Never_Knew_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Greatest Man I Never Knew (Album Version)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/14_The_Greatest_Man_I_Never_Knew_(Album_Version)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Toes (Greatest Hits Version)",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/15_Toes_(Greatest_Hits_Version)_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Greatest",
+      "artist": "Eminem",
+      "has_synced": false,
+      "path": "select/16_Greatest_Eminem.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Greatest Hits - Skit",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/17_Greatest_Hits_-_Skit_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Greatest Hits (Skit)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/18_Greatest_Hits_(Skit)_Ludacris.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GREATEST",
+      "artist": "音乃瀬奏",
+      "has_synced": false,
+      "path": "select/pl_01_GREATEST_音乃瀬奏.txt"
+    }
+  ]
+}
